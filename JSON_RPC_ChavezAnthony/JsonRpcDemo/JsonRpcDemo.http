@@ -1,0 +1,6 @@
+@JsonRpcDemo_HostAddress = http://localhost:5105
+
+GET {{JsonRpcDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
