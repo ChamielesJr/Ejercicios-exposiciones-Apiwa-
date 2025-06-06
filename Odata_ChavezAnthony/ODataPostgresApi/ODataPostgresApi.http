@@ -1,0 +1,6 @@
+@ODataPostgresApi_HostAddress = http://localhost:5277
+
+GET {{ODataPostgresApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

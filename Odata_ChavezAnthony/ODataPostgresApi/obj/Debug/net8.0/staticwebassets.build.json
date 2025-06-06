@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K0C+OMAmMK87JEQh2jbp6HvhvHYp+aLRXrWJeHEmtck=",
+  "Source": "ODataPostgresApi",
+  "BasePath": "_content/ODataPostgresApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
